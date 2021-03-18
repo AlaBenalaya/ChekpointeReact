@@ -1,0 +1,20 @@
+.form {
+  margin: 35%;
+  margin-top: 12%;
+}
+.body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(https://images.pexels.com/photos/3846601/pexels-photo-3846601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200vh;
+}
+.impt {
+  margin-bottom: 40px;
+  background: black;
+}
+.btnsubmit {
+  margin-left: 45%;
+  margin-bottom: 40px;
+}
